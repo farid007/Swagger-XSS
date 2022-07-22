@@ -1,1 +1,10 @@
 
+{
+    "url": "https://raw.githubusercontent.com/farid007/Swagger-XSS/main/XSS.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/farid007/Swagger-XSS/main/XSS.yaml",
+            "name": "Swagger XSS"
+        }
+    ]
+}
