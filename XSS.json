@@ -1,6 +1,6 @@
 
 {
-    "url": "https://raw.githubusercontent.com/farid007/Swagger-XSS/main/XSS.yaml",
+    "url": "javasrcript:alert(1)",
     "urls": [
         {
             "url": "javasrcript:alert(1)",
